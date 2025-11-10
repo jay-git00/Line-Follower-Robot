@@ -8,3 +8,4 @@ using a combination of 3D printing and laser cutting.
 – Aimed to build a self-balancing bike using a reaction wheel mechanism and advanced motor control but shifted
 approach due to design and hardware constraints.
 ![WhatsApp Image 2024-04-21 at 21 56 04_3607b9a4](https://github.com/user-attachments/assets/ce79b7bc-ed4e-4524-8ea9-e2d2d211ab9c)
+file:///C:/Users/DILEEP/OneDrive/Pictures/Screenshots/WhatsApp%20Video%202024-04-21%20at%2021.56.02_0a1cfd9d.mp4
